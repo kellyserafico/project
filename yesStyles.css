@@ -1,0 +1,36 @@
+.gif{
+    width:300px;
+}
+body{
+    background-color: #ffffff;
+}
+.main{
+    margin:auto;
+    display:flex;
+    position:relative;
+    justify-content:center;
+    align-items:center;
+    height:100vh;
+    width:100%;
+    flex-direction:column;
+}
+h{
+    padding-bottom: 10px;
+}
+.submit{
+    margin-top: 10px;
+}
+.hStuff{
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    justify-content:center;
+    position:relative;
+}
+form{
+    display:flex;
+    flex-direction:row;
+    align-items:flex-end;
+    justify-content:center;
+    position:relative;
+}
